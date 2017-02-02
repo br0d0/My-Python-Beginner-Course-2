@@ -21,3 +21,4 @@ ipv6_new = ":".join(ipv6_sections)
 print "IPv6 address re-joined:"
 print ipv6_new
 print
+ 
